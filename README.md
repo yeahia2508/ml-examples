@@ -24,5 +24,17 @@ Supported Languages
  - Python
  - R
  - Java
+ 
+  
+ Graph Preview
+ -------------
+ 
+  - **K-Nearest Neighbors (K-NN)**
+ 
+ <img src="https://github.com/yeahia2508/ml-examples/blob/master/Screenshot/knn_graph.png" alt="Mixture">
+ 
+  - **Polynomial Regression**
+ 
+ <img src="https://github.com/yeahia2508/ml-examples/blob/master/Screenshot/polynomial_graph.png" alt="Mixture">
    
    
