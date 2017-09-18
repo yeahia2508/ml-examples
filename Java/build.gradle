@@ -1,0 +1,29 @@
+group 'com.y34h1a'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+apply plugin: 'application'
+
+buildscript {
+   repositories {
+      jcenter()
+   }
+}
+
+allprojects {
+   repositories {
+      jcenter()
+   }
+}
+
+sourceSets {
+   test {
+      java.srcDir file('src/main/test')
+   }
+}
+
+
+dependencies {
+   compile fileTree(include: ['*.jar'], dir: 'libs')
+   compile 'com.github.haifengl:smile-core:1.4.0'
+}
