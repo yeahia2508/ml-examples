@@ -18,6 +18,7 @@ Covered Area
 - **Classification**
   - K-Nearest Neighbors (K-NN)
   - Logistic Regression
+  - SVM
 
 Supported Languages
 -------------------
