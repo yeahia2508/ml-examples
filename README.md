@@ -4,7 +4,7 @@ Machine Learning implementation example in multiple programming language
 
 
 Covered Area
-------------
+--------------
 
 - **Regression**
 
@@ -15,7 +15,14 @@ Covered Area
    - Random Forest Regression
    - Decision Tree Regression
  
- - **Classification**
- 
-   - K-Nearest Neighbors (K-NN)
-   - Logistic Regression
+- **Classification**
+  - K-Nearest Neighbors (K-NN)
+  - Logistic Regression
+
+Supported Languages
+-------------------
+ - Python
+ - R
+ - Java
+   
+   
