@@ -1,7 +1,7 @@
 # Logistic Regression
 
 # Importing the dataset
-dataset = read.csv('Social_Network_Ads.csv')
+dataset = read.csv('/home/y34h1a/StudioProjects/Mechine Learning Examples/Data/Social_Network_Ads.csv')
 dataset = dataset[3:5]
 
 # Encoding the target feature as factor

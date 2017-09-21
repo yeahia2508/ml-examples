@@ -1,7 +1,7 @@
 # Random Forest Regression
 
 # Importing the dataset
-dataset = read.csv('Position_Salaries.csv')
+dataset = read.csv('/home/y34h1a/StudioProjects/Mechine Learning Examples/Data/Position_Salaries.csv')
 dataset = dataset[2:3]
 
 # Fitting Random Forest Regression to the dataset
