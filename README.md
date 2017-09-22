@@ -19,6 +19,7 @@ Covered Area
   - K-Nearest Neighbors (K-NN)
   - Logistic Regression
   - SVM
+  - Naive Bayes
 
 Supported Languages
 -------------------
