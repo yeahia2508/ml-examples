@@ -20,6 +20,7 @@ Covered Area
   - Logistic Regression
   - SVM
   - Naive Bayes
+  - Decision Tree Classification
 
 Supported Languages
 -------------------
