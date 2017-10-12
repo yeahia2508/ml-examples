@@ -21,6 +21,7 @@ Covered Area
   - SVM
   - Naive Bayes
   - Decision Tree Classification
+  - Random Forrest Classification
 
 Supported Languages
 -------------------
