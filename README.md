@@ -22,12 +22,14 @@ Covered Area
   - Naive Bayes
   - Decision Tree Classification
   - Random Forrest Classification
+  
+-**Association Rule Learning**
+  -Apriori
 
 Supported Languages
 -------------------
  - Python
  - R
- - Java
  
   
  Graph Preview
