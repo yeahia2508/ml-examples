@@ -23,13 +23,15 @@ Covered Area
   - Decision Tree Classification
   - Random Forrest Classification
   
--**Association Rule Learning**
-  -Apriori
+- **Association Rule Learning**
+  - Apriori
+  - Eclat
 
 Supported Languages
 -------------------
  - Python
  - R
+ - Java
  
   
  Graph Preview
